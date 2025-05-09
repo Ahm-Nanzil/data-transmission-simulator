@@ -19,3 +19,5 @@ data_word = '11101'
 even_parity_bit = calculate_even_parity(data_word)
 error_detected = check_for_errors(data_word, even_parity_bit)
 print("Error detected:", error_detected)
+
+# project end
